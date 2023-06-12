@@ -2,13 +2,12 @@
 
 <center>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=edgar-ae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-ae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
-
+<br/>
 <img align="" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-ae&theme=tokyonight&hide_border=true">
 
 <br/>
-<img align="" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgar-ae&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
 </center>
 <br/>
